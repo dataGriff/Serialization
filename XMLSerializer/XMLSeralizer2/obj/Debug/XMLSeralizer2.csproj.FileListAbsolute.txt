@@ -1,0 +1,10 @@
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer2\bin\Debug\XMLSeralizer2.exe.config
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer2\bin\Debug\XMLSeralizer2.exe
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer2\bin\Debug\XMLSeralizer2.pdb
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer2\obj\Debug\XMLSeralizer2.csprojAssemblyReference.cache
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer2\obj\Debug\XMLSeralizer2.csproj.CoreCompileInputs.cache
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer2\obj\Debug\XMLSeralizer2.exe
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer2\obj\Debug\XMLSeralizer2.pdb
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer2\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer2\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer2\obj\Debug\XMLSeralizer2.csproj.CopyComplete

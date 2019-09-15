@@ -1,0 +1,9 @@
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer3\bin\Debug\XMLSeralizer3.exe.config
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer3\bin\Debug\XMLSeralizer3.exe
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer3\bin\Debug\XMLSeralizer3.pdb
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer3\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer3\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer3\obj\Debug\XMLSeralizer3.csproj.CoreCompileInputs.cache
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer3\obj\Debug\XMLSeralizer3.csproj.CopyComplete
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer3\obj\Debug\XMLSeralizer3.exe
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSeralizer3\obj\Debug\XMLSeralizer3.pdb

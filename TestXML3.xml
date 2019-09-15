@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+	<Car id="1">
+		<Attributes>
+  			<Attribute StockNumber ="1020" />
+  			<Attribute Make="Nissan" />
+  			<Attribute Model="Sentra"/>
+		</Attributes>
+	</Car>
+	<Car id="2">
+		<Attributes>
+  			<Attribute StockNumber="1021"/>
+  			<Attribute Make="Ford" />
+  			<Attribute Model="Ka"/>
+			<Attribute BatmanApproved="Yes"/>
+		</Attributes>
+	</Car>
+</Cars>

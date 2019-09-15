@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Attributes>
+  <Attribute StockNumber ="1020" Make="Nissan" Model="Sentra"/>
+  <Attribute StockNumber ="1010" Make="Toyota" Model="Corolla"/>
+  <Attribute StockNumber ="1111" Make="Honda" Model="Accord"/>
+</Attributes>

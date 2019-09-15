@@ -1,0 +1,32 @@
+<StaticData>
+  <Configuration>
+    <SqlCmdParameters />
+    <Tables>
+      <Table Schema="dbo" Name="table1">
+        <Columns>
+          <Column Name="tab1col1" IsPrimaryKey="false" />
+          <Column Name="tab1col2" IsPrimaryKey="false" />
+        </Columns>
+      </Table>
+      <Table Schema="dbo" Name="table2">
+        <Columns>
+          <Column Name="tab2col1" IsPrimaryKey="false" />
+          <Column Name="tab2col2" IsPrimaryKey="false" />
+        </Columns>
+      </Table>
+    </Tables>
+  </Configuration>
+  <TableDataItems>
+    <TableData Schema="dbo" Name="table1">
+      <RowData tab1col1="11" tab1col2="text1" tab1col3="anotherText1" />
+      <RowData tab1col1="12" tab1col2="text2" tab1col3="anotherText2"/>
+      <RowData tab1col1="13" tab1col2="text3" tab1col3="anotherText3"/>
+
+    </TableData>
+    <TableData Schema="dbo" Name="table2">
+      <RowData tab2col1="22" tab2col2="text1" />
+      <RowData tab2col1="23" tab2col2="text1" />
+      <RowData tab2col1="24" tab2col2="text1" />
+    </TableData>
+  </TableDataItems>
+</StaticData>

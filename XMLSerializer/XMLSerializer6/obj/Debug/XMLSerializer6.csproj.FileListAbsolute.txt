@@ -1,0 +1,10 @@
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSerializer6\bin\Debug\XMLSerializer6.exe.config
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSerializer6\bin\Debug\XMLSerializer6.exe
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSerializer6\bin\Debug\XMLSerializer6.pdb
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSerializer6\bin\Debug\Newtonsoft.Json.dll
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSerializer6\bin\Debug\Newtonsoft.Json.xml
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSerializer6\obj\Debug\XMLSerializer6.csprojAssemblyReference.cache
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSerializer6\obj\Debug\XMLSerializer6.csproj.CoreCompileInputs.cache
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSerializer6\obj\Debug\XMLSerializer6.csproj.CopyComplete
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSerializer6\obj\Debug\XMLSerializer6.exe
+E:\Documents\Projects\Serialisation\XMLSerializer\XMLSerializer6\obj\Debug\XMLSerializer6.pdb

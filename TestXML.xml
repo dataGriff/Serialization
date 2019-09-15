@@ -1,0 +1,7 @@
+<Attributes>
+     <Attribute AttributeID="206203" DefiningOrDesc="Descriptive" Name="Name 1" CustomAttribute="2"/>
+     <Attribute AttributeID="206003" DefiningOrDesc="Descriptive" Name="Name 2" AnotherCustomAttribute="Here?"/>
+     <Attribute AttributeID="165907" DefiningOrDesc="Descriptive" Name="Name 3" YetAnotherCustomAttribute1="2" YetAnotherCustomAttribute2="19" YetAnotherCustomAttribute3="Keyboard"/>
+     <Attribute AttributeID="152181" DefiningOrDesc="Descriptive" Name="Name 4" CustomAttribute="2" CustomAttribute79="foo"/>
+</Attributes>
+

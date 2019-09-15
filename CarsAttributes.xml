@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car StockNumber ="1020" Make="Nissan" Model="Sentra"/>
+  <Car StockNumber ="1010" Make="Toyota" Model="Corolla"/>
+  <Car StockNumber ="1111" Make="Honda" Model="Accord"/>
+</Cars>
